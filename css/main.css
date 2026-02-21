@@ -1,0 +1,6 @@
+.desktop-nav { display: none; }
+
+@media screen and (min-width: 768px) {
+  .mobile-only { display: none; }
+  .desktop-nav { display: block; }
+}
